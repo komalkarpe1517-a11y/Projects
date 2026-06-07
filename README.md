@@ -1,11 +1,19 @@
-Data Analytics Projects
+# Data Analytics Projects
 
-This repository contains three projects focused on data analysis and visualization:
+## 1. Sports League Analysis
 
-- Sports League Analysis – SQL-based analysis using MySQL.
-- 
-- Crime Analysis India – Exploratory Data Analysis (EDA) using Python in Google Colab.
-- 
-- Road Accident Analysis – Interactive dashboard created in Power BI.
+- Tool Used: SQL
+- Analyzed sports league data using SQL queries.
+- Generated insights through data filtering and reporting.
 
-Tools Used: MySQL, SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab, Power BI, Excel.
+## 2. Crime Analysis in India
+
+- Tool Used: Google Colab
+- Performed Exploratory Data Analysis (EDA).
+- Identified trends and patterns from crime data.
+
+## 3. Road Accident Analysis
+
+- Tool Used: Power BI
+- Developed an interactive dashboard.
+- Visualized accident trends and key insights.
